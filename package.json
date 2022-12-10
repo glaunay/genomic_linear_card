@@ -11,6 +11,6 @@
   "dependencies": {
     "@mmsb/genomic-card": "^2.0.0",
     "@mmsb/linear-card": "0.0.4",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
